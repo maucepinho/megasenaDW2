@@ -8,4 +8,5 @@ Projeto limpo para ser usado nas aulas.
 git clone https://github.com/arleysouza/react.git front
 cd front
 npm i
+npm run start
 ```
