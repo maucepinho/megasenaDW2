@@ -1,6 +1,6 @@
 # Projeto React TS
 
-Projeto limpo para ser usado nas aulas.
+Atividade da aula de Desenvolvimento Web II da Fatec de Jacareí
 
 #### Instruções de uso
 
